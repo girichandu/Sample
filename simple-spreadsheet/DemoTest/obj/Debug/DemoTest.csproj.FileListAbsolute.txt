@@ -1,0 +1,7 @@
+C:\Users\GIRIDHARBOMMISETTY\source\repos\DemoTest\DemoTest\bin\Debug\DemoTest.exe.config
+C:\Users\GIRIDHARBOMMISETTY\source\repos\DemoTest\DemoTest\bin\Debug\DemoTest.exe
+C:\Users\GIRIDHARBOMMISETTY\source\repos\DemoTest\DemoTest\bin\Debug\DemoTest.pdb
+C:\Users\GIRIDHARBOMMISETTY\source\repos\DemoTest\DemoTest\obj\Debug\DemoTest.csprojResolveAssemblyReference.cache
+C:\Users\GIRIDHARBOMMISETTY\source\repos\DemoTest\DemoTest\obj\Debug\DemoTest.csproj.CoreCompileInputs.cache
+C:\Users\GIRIDHARBOMMISETTY\source\repos\DemoTest\DemoTest\obj\Debug\DemoTest.exe
+C:\Users\GIRIDHARBOMMISETTY\source\repos\DemoTest\DemoTest\obj\Debug\DemoTest.pdb

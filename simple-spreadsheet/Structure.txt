@@ -1,0 +1,11 @@
+ Directory of C:\Users\GIRIDHARBOMMISETTY\source\repos\DemoTest\DemoTest
+
+21/11/2018  03:56 PM    <DIR>          .
+21/11/2018  03:56 PM    <DIR>          ..
+21/11/2018  09:44 AM               187 App.config
+21/11/2018  09:44 AM    <DIR>          bin
+21/11/2018  03:56 PM             6,197 Common.cs  >> This is used for common operations
+21/11/2018  03:41 PM             2,289 DemoTest.csproj
+21/11/2018  09:44 AM    <DIR>          obj
+21/11/2018  03:48 PM             2,312 Program.cs >> Main program logic here
+21/11/2018  09:44 AM    <DIR>          Properties
